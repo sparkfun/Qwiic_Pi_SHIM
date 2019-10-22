@@ -1,0 +1,16 @@
+# 'EAGLE Version 9.5.0 Copyright (c) 1988-2019 Autodesk, Inc.;
+
+SET UNDO_LOG OFF;
+# Migrate parts to 'C:/Users/pete.lewis/Documents/GitHub/Qwiic_Pi_SHIM/Hardware/Qwiic Pi SHIM.lbr'
+USE -*;
+USE 'C:/Users/pete.lewis/Documents/GitHub/Qwiic_Pi_SHIM/Hardware/Qwiic Pi SHIM.lbr';
+#
+# SHEET 1 - MIGRATE PARTS
+#
+EDIT .s1
+REPLACE J1 SPARKFUN-CONNECTORS_I2C_STANDARDQWIIC;
+REPLACE J9 SPARKFUN-CONNECTORS_CONN_03X2NO_SILK;
+EDIT .s1
+SET UNDO_LOG ON;
+# Put all libraries back into use
+USE *;
