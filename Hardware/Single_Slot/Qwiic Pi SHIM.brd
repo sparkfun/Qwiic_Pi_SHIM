@@ -1283,8 +1283,14 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
 <errors>
-<approved hash="4,16,25eee56188b2b221"/>
-<approved hash="4,1,25eee56188b2b221"/>
+<approved hash="4,1,2e39b2adebef62e1"/>
+<approved hash="4,1,b4d5aa61a3aa4058"/>
+<approved hash="4,1,243e3a6593be6467"/>
+<approved hash="4,1,0304e1ce360dbd5c"/>
+<approved hash="4,16,2e39b2adebef62e1"/>
+<approved hash="4,16,b4d5aa61a3aa4058"/>
+<approved hash="4,16,243e3a6593be6467"/>
+<approved hash="4,16,0304e1ce360dbd5c"/>
 </errors>
 </board>
 </drawing>

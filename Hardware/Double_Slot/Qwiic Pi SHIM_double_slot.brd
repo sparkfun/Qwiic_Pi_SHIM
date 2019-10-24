@@ -1409,8 +1409,9 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
 <errors>
-<approved hash="4,16,25eee56188b2b221"/>
-<approved hash="4,1,25eee56188b2b221"/>
+<approved hash="23,1,38d9971997c83808"/>
+<approved hash="23,1,817834112ec1b645"/>
+<approved hash="23,16,38d9971997c83808"/>
 </errors>
 </board>
 </drawing>
