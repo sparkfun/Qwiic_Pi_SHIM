@@ -15,7 +15,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-shim-for-raspberry-pi)** - Basic hookup guide for the SparkFun Qwiic SHIM for Raspberry Pi. 
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-shim-for-raspberry-pi-hookup-guide)** - Basic hookup guide for the SparkFun Qwiic SHIM for Raspberry Pi. 
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 
 License Information
