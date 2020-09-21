@@ -1,7 +1,7 @@
 SparkFun Qwiic SHIM for Raspberry Pi
 ========================================
 
-![SparkFun Qwiic SHIM for Raspberry Pi](https://cdn.sparkfun.com/assets/parts/1/4/3/9/9/15794-SparkFun_Qwiic_SHIM_for_Raspberry_Pi-01.jpg)
+![SparkFun Qwiic SHIM for Raspberry Pi](https://cdn.sparkfun.com//assets/parts/1/4/3/9/9/16385-15794-SparkFun_Qwiic_SHIM_for_Raspberry_Pi-01.jpg)
 
 [*SparkFun Qwiic SHIM for Raspberry Pi (15794)*](https://www.sparkfun.com/products/15794)
 
