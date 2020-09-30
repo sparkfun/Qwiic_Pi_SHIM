@@ -163,7 +163,7 @@
 <board>
 <plain>
 <text x="20.32" y="-13.97" size="1.778" layer="51" font="vector">Pete Lewis</text>
-<text x="1.27" y="6.9596" size="1.016" layer="16" font="vector" ratio="20" rot="MR270">v12</text>
+<text x="1.27" y="6.9596" size="1.016" layer="16" font="vector" ratio="20" rot="MR270">v14</text>
 <text x="6.0452" y="0.5588" size="1.016" layer="21" font="vector" ratio="15">SHIM</text>
 <dimension x1="0" y1="0" x2="0" y2="13.97" x3="-6.35" y3="6.985" textsize="1.27" layer="47" unit="inch" visible="yes"/>
 <dimension x1="0" y1="0" x2="10.16" y2="0" x3="5.08" y3="19.05" textsize="1.27" layer="47" unit="inch" visible="yes"/>
@@ -882,7 +882,7 @@ Use 0.7" Vector font @ 8% ratio</description>
 <description>Generated from &lt;b&gt;Qwiic Pi SHIM.sch&lt;/b&gt;&lt;p&gt;
 by exp-lbrs.ulp</description>
 <packages>
-<package name="SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-2MILS">
+<package name="SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-4MILS">
 <description>&lt;h3&gt;Plated Through Hole - 2x3 No Silk Outline&lt;/h3&gt;
 &lt;p&gt;Specifications:
 &lt;ul&gt;&lt;li&gt;Pin count:6&lt;/li&gt;
@@ -898,11 +898,11 @@ by exp-lbrs.ulp</description>
 <rectangle x1="-0.254" y1="-1.524" x2="0.254" y2="-1.016" layer="51"/>
 <rectangle x1="2.286" y1="1.016" x2="2.794" y2="1.524" layer="51"/>
 <rectangle x1="2.286" y1="-1.524" x2="2.794" y2="-1.016" layer="51"/>
-<pad name="1" x="-2.54" y="-1.0922" drill="1.016" diameter="1.524" shape="square"/>
+<pad name="1" x="-2.54" y="-1.0414" drill="1.016" diameter="1.524" shape="square"/>
 <pad name="2" x="-2.54" y="1.0922" drill="1.016" diameter="1.1684" shape="long" stop="no" thermals="no"/>
-<pad name="3" x="0" y="-1.0922" drill="1.016" diameter="1.651"/>
+<pad name="3" x="0" y="-1.0414" drill="1.016" diameter="1.651"/>
 <pad name="4" x="0" y="1.0922" drill="1.016" diameter="1.1684" shape="long" stop="no" thermals="no"/>
-<pad name="5" x="2.54" y="-1.0922" drill="1.016" diameter="1.651"/>
+<pad name="5" x="2.54" y="-1.0414" drill="1.016" diameter="1.651"/>
 <pad name="6" x="2.54" y="1.0922" drill="1.016" diameter="1.1684" shape="long" stop="no" thermals="no"/>
 <text x="-3.81" y="2.667" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
 <text x="-3.81" y="-3.937" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
@@ -1174,7 +1174,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="FD3" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="0.6096" y="1.6764" smashed="yes" rot="MR0"/>
 <element name="FD4" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="5.08" y="13.3604" smashed="yes" rot="MR0"/>
-<element name="J9" library="Qwiic Pi SHIM" package="SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-2MILS" value="" x="3.81" y="11.43" smashed="yes">
+<element name="J9" library="Qwiic Pi SHIM" package="SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-4MILS" value="" x="3.81" y="11.43" smashed="yes">
 <attribute name="NAME" x="0" y="14.097" size="0.6096" layer="25" font="vector" ratio="20"/>
 <attribute name="VALUE" x="0" y="7.493" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
@@ -1225,7 +1225,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="J1" pad="3"/>
 <contactref element="J9" pad="3"/>
 <wire x1="3.81" y1="5.3848" x2="3.81" y2="7.62" width="0.254" layer="1"/>
-<wire x1="3.81" y1="7.62" x2="3.81" y2="10.3378" width="0.254" layer="1"/>
+<wire x1="3.81" y1="7.62" x2="3.81" y2="10.3886" width="0.254" layer="1"/>
 <wire x1="4.9784" y1="5.088" x2="4.1068" y2="5.088" width="0.254" layer="1"/>
 <wire x1="4.1068" y1="5.088" x2="3.81" y2="5.3848" width="0.254" layer="1"/>
 </signal>
@@ -1235,7 +1235,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <via x="3.7338" y="4.1148" extent="1-16" drill="0.381"/>
 <wire x1="4.9784" y1="4.088" x2="3.7606" y2="4.088" width="0.254" layer="1"/>
 <wire x1="3.7606" y1="4.088" x2="3.7338" y2="4.1148" width="0.254" layer="1"/>
-<wire x1="3.7338" y1="7.6708" x2="6.35" y2="10.3378" width="0.254" layer="16"/>
+<wire x1="3.7338" y1="7.6708" x2="6.35" y2="10.3886" width="0.254" layer="16"/>
 <wire x1="3.7338" y1="4.1148" x2="3.7338" y2="7.6708" width="0.254" layer="16"/>
 </signal>
 <signal name="5V">

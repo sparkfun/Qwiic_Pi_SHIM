@@ -9546,7 +9546,7 @@ by exp-lbrs.ulp</description>
 <part name="U2" library="SparkFun-IC-Power" deviceset="V_REG_AP2112" device="K-3.3V" value="3.3V/600mA"/>
 <part name="FD3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL" value="FIDUCIALUFIDUCIAL"/>
 <part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL" value="FIDUCIALUFIDUCIAL"/>
-<part name="J9" library="Qwiic Pi SHIM" deviceset="SPARKFUN-CONNECTORS_CONN_03X2" device="SINGLE_SLOT-2MILS"/>
+<part name="J9" library="Qwiic Pi SHIM" deviceset="SPARKFUN-CONNECTORS_CONN_03X2" device="SINGLE_SLOT-4MILS"/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$4" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="SPECIAL_INSTRUCTIONS" device="-ORDERING" package3d_urn="urn:adsk.eagle:package:37167/1"/>
